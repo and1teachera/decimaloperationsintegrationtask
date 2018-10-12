@@ -1,0 +1,13 @@
+org\example\math\WsMath.class
+com\integration\config\WebConfig.class
+org\example\math\Answer.class
+com\integration\endpoints\SoapCXFEndpoint.class
+com\integration\transformers\DecimalsTransformer.class
+org\example\math\Add.class
+org\example\math\package-info.class
+org\example\math\MathService.class
+com\integration\routes\DecimalsRouteBuilder.class
+org\example\math\ObjectFactory.class
+com\integration\aggregation\DecimalsAggregationExpression.class
+com\integration\aggregation\DecimalsAggregationStrategy.class
+com\integration\Application.class
